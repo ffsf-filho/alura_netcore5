@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace FilmesApi.Data.Dtos
 {
-    public class UpdateCinemaDto
+    public class CreateEnderecoDto
     {
-        [Required(ErrorMessage = "O campo de nome é obrigatório")]
-        public string Nome { get; set; }
+        public string Logradouro { get; set; }
+        public string Bairro { get; set; }
+        public int Numero { get; set; }
+        
     }
 }

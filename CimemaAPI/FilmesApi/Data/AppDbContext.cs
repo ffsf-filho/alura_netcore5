@@ -1,4 +1,4 @@
-﻿using FilmesAPI.Models;
+﻿using FilmesApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace FilmesApi.Data
@@ -12,5 +12,6 @@ namespace FilmesApi.Data
 
         public DbSet<Filme> Filmes { get; set; }
         public DbSet<Cinema> Cinemas { get; set; }
+        public DbSet<Endereco> Enderecos { get; set; }
     }
 }

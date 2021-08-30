@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
-namespace FilmesAPI.Models
+namespace FilmesApi.Models
 {
     public class Cinema
     {

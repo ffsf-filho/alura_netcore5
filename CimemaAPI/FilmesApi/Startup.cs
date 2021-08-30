@@ -1,5 +1,4 @@
 using FilmesApi.Data;
-using FilmesAPI.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -17,7 +16,7 @@ using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace FilmesAPI
+namespace FilmesApi
 {
     public class Startup
     {
