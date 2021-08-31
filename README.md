@@ -7,7 +7,7 @@
 ### Conteúdo do Curso
 
 1. [API Rest com .NET Core 5: Operações essenciais com verbos HTTP](https://github.com/ffsf-filho/alura_netcore5/tree/main/FilmesAPI)
-2. .NET 5 e EF Core: Relacionando entidades
+2. [.NET 5 e EF Core: Relacionando entidades](https://github.com/ffsf-filho/alura_netcore5/tree/main/CinemaAPI)
 
 ### Downloading
 
