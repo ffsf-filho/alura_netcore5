@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraTunes", "AluraTunes\AluraTunes.csproj", "{BE9DFEF0-E872-4DF8-AD7C-A817FA2AE193}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AluraTunes", "AluraTunes\AluraTunes.csproj", "{BE9DFEF0-E872-4DF8-AD7C-A817FA2AE193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AluraTunes.NetFrameWork", "AluraTunes.NetFrameWork\AluraTunes.NetFrameWork.csproj", "{667B8206-7476-47D3-8B13-38B964DF4E6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BE9DFEF0-E872-4DF8-AD7C-A817FA2AE193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE9DFEF0-E872-4DF8-AD7C-A817FA2AE193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE9DFEF0-E872-4DF8-AD7C-A817FA2AE193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667B8206-7476-47D3-8B13-38B964DF4E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667B8206-7476-47D3-8B13-38B964DF4E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667B8206-7476-47D3-8B13-38B964DF4E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667B8206-7476-47D3-8B13-38B964DF4E6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
