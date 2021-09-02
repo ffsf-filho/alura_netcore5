@@ -9,6 +9,7 @@
 1. [API Rest com .NET Core 5: Operações essenciais com verbos HTTP](https://github.com/ffsf-filho/alura_netcore5/tree/main/FilmesAPI)
 2. [.NET 5 e EF Core: Relacionando entidades](https://github.com/ffsf-filho/alura_netcore5/tree/main/CimemaAPI)
 3. [Entity LinQ parte 1: Crie queries poderosas em C#](https://github.com/ffsf-filho/alura_netcore5/tree/main/AluraTunes)
+4. [Entity LinQ parte 2: Store Procedures e consultas com o LinQPad](https://github.com/ffsf-filho/alura_netcore5/tree/main/AluraTunes)
 
 ### Downloading
 
